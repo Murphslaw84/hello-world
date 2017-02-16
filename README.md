@@ -1,2 +1,5 @@
 # hello-world
-Hell World repository training
+Hello World repository training
+
+I am writing things about myself as per the instructions.
+
